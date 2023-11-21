@@ -1,0 +1,19 @@
+<div class="container">
+<svg id="flower-frame"
+version="1.1"
+
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 641.5 637.3">
+<style type="text/css">
+    .st0{fill:#FFFFFF;}
+
+    .str1{fill:none;stroke:#215F7E;stroke-width: 2;stroke-linecap: round;stroke-linejoin: round;
+
+    }
+    .st2{fill:#64C1BB;}
+    .st3{fill:none;stroke: #21A5AF;stroke-width: 2;stroke-linecap: round;stroke-linejoin: round;}
+    svg#flower-frame{
+        height:90vh;
+        width:100%;
+    }
+    #flower_ground_1_,[id^=PinkflowerGroup],[id^=BaseGroup] path,[id^=LeafGroup] path,path[id^=Stroke],g[id^=Budgroup] g[id^=BuGroup] g[id^=Bud],#Bud8_1_,#Bud10_1_,#Bud23_1_,#Bud26_1_,[id^=Dots],[id^=Flourish]{visibility: hidden;}
+    
