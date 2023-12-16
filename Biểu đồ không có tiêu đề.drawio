@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T16:20:37.097Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="22.1.8" etag="k65f3PUCnTXmef80hjuw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T11:24:03.128Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="u9aRSPcBUWTYFSamAx2h" version="22.1.11" type="github">
   <diagram name="Trang-1" id="pjU9L12F9OEndrFQ8qn7">
-    <mxGraphModel>
+    <mxGraphModel dx="877" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5OUAT-iSBEpZO8xYCpOZ-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="46" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OUAT-iSBEpZO8xYCpOZ-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="171" y="29" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
